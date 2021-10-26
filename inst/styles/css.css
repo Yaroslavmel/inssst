@@ -1,0 +1,125 @@
+.inst {
+    width:110px; height:110px;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+    border-radius: 30px;
+}
+
+.inst2 {
+    width: 80px;
+    height: 80px;
+    border: 5px  solid white;
+    border-radius: 20px;
+    position: absolute;
+   margin-left: 9.5px;
+   margin-top: 9.5px;
+ }
+
+ .inst3 {
+    width: 30px;
+    height: 30px;
+    border: 5px  solid white;
+    border-radius: 60px;
+    position: absolute;
+   margin-left: 20px;
+   margin-top: 20px; 
+ }
+
+ .inst4 {
+    background: #ffffff;
+  border: 0.1875em solid #ffffff;
+  border-radius: 50%;
+  box-shadow: 0.375em 0.375em 0 0 rgba(255, 255, 255, 0.125);
+  height: 0.7em;
+  width: 0.7em;
+  margin-left: 28px;
+  margin-top: -20px;
+ }
+
+ .inst5 {
+    width:110px; height:110px;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #726d63, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #919191, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #3d3d4b, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #32323a, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #726f74, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #252525, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #363435, transparent);
+    border-radius: 30px;
+    margin-left: 300px;
+    margin-top: -110px;
+    position: absolute;
+}
+
+.inst6 {
+    width: 80px;
+    height: 80px;
+    border: 5px  solid white;
+    border-radius: 20px;
+    position: absolute;
+   margin-left: 9.5px;
+   margin-top: 9.5px;
+   
+}
+
+.inst2 {
+    width: 80px;
+    height: 80px;
+    border: 5px  solid white;
+    border-radius: 20px;
+    position: absolute;
+   margin-left: 9.5px;
+   margin-top: 9.5px;
+ }
+
+ .inst3 {
+    width: 30px;
+    height: 30px;
+    border: 5px  solid white;
+    border-radius: 60px;
+    position: absolute;
+   margin-left: 20px;
+   margin-top: 20px; 
+ }
+
+ .inst4 {
+    background: #ffffff;
+  border: 0.1875em solid #ffffff;
+  border-radius: 50%;
+  box-shadow: 0.375em 0.375em 0 0 rgba(255, 255, 255, 0.125);
+  height: 0.7em;
+  width: 0.7em;
+  margin-left: 28px;
+  margin-top: -20px;
+ }
+
+ 
+
+ .inst7 {
+    width: 30px;
+    height: 30px;
+    border: 5px  solid white;
+    border-radius: 60px;
+    position: absolute;
+   margin-left: 20px;
+   margin-top: 23px; 
+ }
+
+ .inst8 {
+    background: #ffffff;
+  border: 0.1875em solid #ffffff;
+  border-radius: 50%;
+  box-shadow: 0.375em 0.375em 0 0 rgba(255, 255, 255, 0.125);
+  height: 0.7em;
+  width: 0.7em;
+  margin-left: 28px;
+  margin-top: -20px;
+ }
+
+
+.g {
+     width: 30px;
+     margin-top: 20px;
+     
+     position: absolute;
+ }
+ .h {
+    width: 30px;
+    margin-top: 45px;
+    margin-left: 42px;
+    
+    position: absolute;
+}
